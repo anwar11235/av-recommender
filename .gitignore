@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# MLflow
+mlruns/
+
+# Logs
+*.log
+
+# Data files (add specific data file patterns if needed)
+*.csv
+*.json
+*.pkl
+*.h5
+
+# Model files (add specific model file patterns if needed)
+*.model
+*.joblib
+*.pkl
+
+# OS-specific
+.DS_Store
+Thumbs.db 
